@@ -1,0 +1,186 @@
+.banner-color{
+background-color: rgb(13, 13, 219);
+height: 700px;
+width: 100%;
+
+}
+.top-banner img{
+    height: 400px;
+    width: 500px;
+    float: right;
+    margin-top:120px;
+    margin-right: 150px;
+}
+.top-taxt{
+    color: white;
+    font-weight: 1000;
+    
+}
+.img{
+    height: 200px;
+    width: 250px;
+    margin-top:120px;
+}
+.Neymar{
+margin-top: 50px;
+margin-right: 25px;
+border: 1px solid;
+background-color: honeydew;
+padding-left: 10px;
+padding-bottom: 10px;
+width: 300px;
+box-shadow: 10px 10px 20px gray;
+}
+.lionel{
+margin-top: 50px;
+margin-right: 25px;
+border: 1px solid;
+background-color: honeydew;
+padding-left: 10px;
+padding-bottom: 10px;
+width: 300px;
+box-shadow: 10px 10px 20px gray;
+}
+.cristiano{
+margin-top: 50px;
+margin-right: 25px;
+border: 1px solid;
+background-color: honeydew;
+padding-left: 10px;
+padding-bottom: 10px;
+width: 300px;
+box-shadow: 10px 10px 20px gray;
+}
+.section-1{
+display: flex;
+margin-left: 170px;
+}
+.paulo{
+    margin-top: 50px;
+    margin-right: 25px;
+    border: 1px solid;
+    background-color: honeydew;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    box-shadow: 10px 10px 20px gray;
+    }
+    .mesut{
+        margin-top: 50px;
+        margin-right: 25px;
+        border: 1px solid;
+        background-color: honeydew;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        width: 300px;
+        box-shadow: 10px 10px 20px gray;
+        }
+        .mauro{
+            margin-top: 50px;
+            margin-right: 25px;
+            border: 1px solid;
+            background-color: honeydew;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            width: 300px;
+            box-shadow: 10px 10px 20px gray;
+            }
+            .section-2{
+                display: flex;
+                margin-left: 170px;
+                }
+.di{
+margin-top: 50px;
+margin-right: 25px;
+border: 1px solid;
+background-color: honeydew;
+padding-left: 10px;
+padding-bottom: 10px;
+width: 300px;
+box-shadow: 10px 10px 20px gray;
+}
+.kylian{
+margin-top: 50px;
+margin-right: 25px;
+border: 1px solid;
+background-color: honeydew;
+padding-left: 10px;
+padding-bottom: 10px;
+width: 300px;
+box-shadow: 10px 10px 20px gray;
+}
+.mohamed{
+margin-top: 50px;
+margin-right: 25px;
+border: 1px solid;
+background-color: honeydew;
+padding-left: 10px;
+padding-bottom: 10px;
+width: 300px;
+box-shadow: 10px 10px 20px gray;
+}
+.section-3{
+display: flex;
+margin-left: 170px;
+}
+                                    .harry{
+                                        margin-top: 50px;
+                                        margin-right: 25px;
+                                        border: 1px solid;
+                                        background-color: honeydew;
+                                        padding-left: 10px;
+                                        padding-bottom: 10px;
+                                        width: 300px;
+                                        box-shadow: 10px 10px 20px gray;
+                                        }
+                                        .kevin{
+                                        margin-top: 50px;
+                                        margin-right: 25px;
+                                        border: 1px solid;
+                                        background-color: honeydew;
+                                        padding-left: 10px;
+                                        padding-bottom: 10px;
+                                        width: 300px;
+                                        box-shadow: 10px 10px 20px gray;
+                                        }
+                                        .philippe{
+                                        margin-top: 50px;
+                                        margin-right: 25px;
+                                        border: 1px solid;
+                                        background-color: honeydew;
+                                        padding-left: 10px;
+                                        padding-bottom: 10px;
+                                        width: 300px;
+                                        box-shadow: 10px 10px 20px gray;
+                                        }
+                                        .section-4{
+                                        display: flex;
+                                        margin-left: 170px;
+                                        }
+ 
+     
+     
+ }
+ .bottom-h1{
+
+   font-size: 20px;
+ }
+ .bottom-p{
+    font-size: 20px;
+ }     
+ .bottom{
+    display: flex;
+    margin-top: 150px;
+ } 
+ .bottom-img img{
+    width: 500px;
+    height:300px; 
+    margin-left: 200px; 
+}
+
+#text{
+    margin-left: 200px;
+}
+.alin{
+     
+}
